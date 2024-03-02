@@ -1,7 +1,5 @@
 # Movie-Search_Engine
 
-1st Group Project
-
 Summary:
 
 The project consists of a web-page designed to work as a movie search engine, this way people will be able to consult a movies rating,
@@ -9,9 +7,6 @@ release date, the movie´s plot, and external articles related to that specific 
 
 To access the movie information, users must select the image and will be redirected to another HTML in which specific data about the film is presented.
 
-Deployed App: https://enrique-rojas-villegas.github.io/Movie-Search_Engine/
-
-USER STORY:
 
 AS A movie watcher<br/>
 I WANT to be able to input a search criteria into a search engine<br/>
@@ -28,20 +23,7 @@ BREAKDOWN OF GENERAL TASKS:
 7. Implementation/Use of localStorage to remember past searches.
 8. Implementation of media queries by external frameworks to be a responsive site for major devices.
 9. Interactive buttons to access an actors or directors information.
-
 10. Sketch of the Design
-
-This was the first idea for the Search Engine, but since has been modified to add different characteristics.
-
-![This Img shows the initial idea for the project](./assets/images/Sketch-of-the-design.PNG)
-
-2. Accurate Sketch of the Designed once modified to final characteristics
-
-![This Img shows the final mockup for the Engine](./assets/images/Final-sketch-of-design.PNG)
-
-3. This next image is the second HTML where the user is taken once clicked on the preferred movie.
-
-![Second HTML for the movie´s own information](./assets/images/Second-html.PNG)
 
 Tools Used in this Project:
 
@@ -57,15 +39,6 @@ Tools Used in this Project:
    The Movie DataBase(TMDB): Documentation ---> https://developers.themoviedb.org/3/getting-started/introduction<br/>
    Wikipedia: Documentation ---> https://www.mediawiki.org/wiki/API:Main_page<br/>
 
-Actual Mockup of the finished Web-site:<br/>
-This site is responsive to different screen sizes, you can open your DevTools and check the differences in it.
-
-![Final Look of Mockup1](./assets/images/Homepage.PNG)
-
-Individual Movie Mockup:
-
-![Final Look of Mockup](./assets/images/Movie-ss.PNG)
-
-This site is responsive to different screen sizes, you can open your DevTools and check the differences in it.
+This site is responsive to different screen sizes
 
 Respository: https://github.com/Enrique-Rojas-Villegas/Movie-Search_Engine.git
