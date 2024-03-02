@@ -1,5 +1,5 @@
 # Movie-Search_Engine
-
+WEB: srrollins.github.io/Movie-Search-engine/
 Summary:
 
 The project consists of a web-page designed to work as a movie search engine, this way people will be able to consult a movies rating,
@@ -41,4 +41,4 @@ Tools Used in this Project:
 
 This site is responsive to different screen sizes
 
-Respository: https://github.com/Enrique-Rojas-Villegas/Movie-Search_Engine.git
+Respository: https://github.com/SRrollins/Movie-Search-engine
